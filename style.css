@@ -1,0 +1,20 @@
+img{
+    height:400px;
+    width:400px;
+    border:20px solid gold;
+    border-radius: 100%    
+}
+body{
+    text-align: center;
+    background:linear-gradient(#fa052a 0%,#13d155 100%);
+}
+h1{
+    font-size: 90px;
+        color:#00fff2;
+}
+p{
+    line-height: 50px;
+    text-align: justify;
+    font-size: 20px
+        
+}
